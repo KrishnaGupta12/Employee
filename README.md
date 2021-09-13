@@ -1,2 +1,1 @@
-# Employee
-SpringBoot project crud for employee management
+# CRS-DEMO-PRACTICE-PROJECT
